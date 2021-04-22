@@ -1,0 +1,25 @@
+{
+  "name": "moving-the-spider",
+  "version": "1.0.0",
+  "description": "Implemented the ability to move the spider on click using Vanilla JS, DOM, HTML5/CSS3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaHarshyna/moving-the-spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaHarshyna/moving-the-spider/issues"
+  },
+  "homepage": "https://github.com/AnnaHarshyna/moving-the-spider#readme",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
